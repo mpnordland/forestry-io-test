@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-<!-- Example row of columns -->
 
 <div class="row">
  <div id="music" class="col-lg-6 col-lg-offset-3">
