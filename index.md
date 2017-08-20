@@ -5,13 +5,17 @@ sections:
   url: "#music"
 - title: About
   url: "#about"
+- title: Test
+  url: "#test"
 ---
-
 {% section music %}
-<img src="assets/img/all-thanks-to-christ.jpg">
-<h2>Download my new single</h2>
-<p class="lead"> I'll also send you updates about writing and performing music</p>
+![](assets/img/all-thanks-to-christ.jpg)
+
+## Download my new single
+
+I'll also send you updates about writing and performing music
 <!-- Begin MailChimp Signup Form -->
+
 <div id="mc_embed_signup">
  <form action="//NordlandMusic.us16.list-manage.com/subscribe/post?u=2c7fe8dd2ab9ff8df83928456&amp;id=b02fcd21c1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
   <div id="mc_embed_signup_scroll">
@@ -34,10 +38,14 @@ sections:
  </form>
 </div>
 <!--End mc_embed_signup-->
+
 {% endsection %}
 
 {% section about %}
-    <img src="assets/img/bio_portrait.png">
-    {{site.description}}
+![](assets/img/bio_portrait.png)
+{{site.description}}
 {% endsection %}
 
+{% section test %}
+# TEST SECTION!
+{% endsection %}
