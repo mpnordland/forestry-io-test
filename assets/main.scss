@@ -29,6 +29,10 @@ h3, .lead {
     padding-bottom: 50px;
     font-family: 'Droid Sans', sans-serif;
     font-size: 20px;
+    img {
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 #mc_embed_signup {
