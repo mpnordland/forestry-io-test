@@ -5,4 +5,4 @@ permalink: "/blog/"
 ---
 
 
-Blog posts about me!
+Blog posts about me
