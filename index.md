@@ -5,16 +5,7 @@ sections:
   url: "#music"
 - title: About
   url: "#about"
-- title: Test
-  url: "#test"
 ---
-{% section music %}
-![](assets/img/all-thanks-to-christ.jpg)
-
-    - title: About
-      url: "#about"
----
-
 {% section music %}
 <img src="assets/img/all-thanks-to-christ.jpg">
 <h2>Download my new single</h2>
@@ -47,8 +38,4 @@ sections:
 {% section about %}
     <img src="assets/img/bio_portrait.png">
     {{site.description}}
-{% endsection %}
-
-{% section test %}
- <h1>TEST SECTION!</h1>
 {% endsection %}
