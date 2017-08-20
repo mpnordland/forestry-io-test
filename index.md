@@ -1,11 +1,10 @@
 ---
 layout: default
 sections:
-    - title: Music
-      url: "#music"
-
-    - title: About
-      url: "#about"
+- title: Music
+  url: "#music"
+- title: About
+  url: "#about"
 ---
 
 {% section music %}
