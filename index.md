@@ -1,5 +1,9 @@
 ---
 layout: home
+section:
+- page: about.md
+  section_title: About
+sections: []
 ---
 
 <div class="row">
