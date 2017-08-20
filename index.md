@@ -35,7 +35,8 @@ layout: home
 </div>
 
 <div class="row">
-  <div id="about" class="col-lg-6 col-lg-offset-3"><img src="assets/img/bio_portrait.png">
+  <div id="about" class="col-lg-6 col-lg-offset-3">
+   <img src="assets/img/bio_portrait.png">
    <p>
     Isaiah is a Composer, Educator, and Worship Leader. He is
     passionate about writing music that will assist the body of
