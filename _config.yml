@@ -17,8 +17,8 @@ title: Nordland Music
 email: info@nordlandmusic.com
 description: > # this means to ignore newlines until "baseurl:"
     blah
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "rehack.me/forestry-io-test" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/forestry-io-test" # the subpath of your site, e.g. /blog
+url: "rehack.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
