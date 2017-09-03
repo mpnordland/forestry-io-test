@@ -1,0 +1,24 @@
+---
+pages:
+- index.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- type: field_group_list
+  name: sections
+  label: Sections
+  fields:
+  - type: text
+    name: title
+    label: Title
+    description: Visible text for the link
+  - type: text
+    name: url
+    label: url
+    description: A '#' and then the name of the section
+  config:
+    labelField: title
